@@ -10,6 +10,7 @@ LGTM Has to be set up manually after template is created:
 
 ## About ftxui_test_public
 
+Try ftxui
 
 
 ## More Details
